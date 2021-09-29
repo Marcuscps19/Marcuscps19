@@ -1,6 +1,6 @@
 <h1 align="center">Marcus Cesar Hüsemann Filho</h1>
+<p align="center"> Full stack developer </p>
 <section display="flex">
-<img src="https://media1.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e470jdmso0lvx55cec4lyq0cl3qjr8utbo0xhxamohq&rid=giphy.gif" align="right" width="200" height="200">
 
 <h3>Conecte-se comigo: </h3>
 <p>
@@ -8,17 +8,18 @@
   <a href="https://linkedin.com/in/marcus-husemann"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 </section>
-  <br />
-  <br />
 <h2> Sobre mim: 👨‍🦲 </h2>
 <br />
 <p> 
- 💻 Sou desenvolvedor de software e atualmente estudo na [Trybe](https://www.betrybe.com/). 📖 <br /><br />
+ 💻 Sou desenvolvedor de software e atualmente estudo na 
+ <a href="https://www.betrybe.com">Trybe</a>. 📖 <br /><br />
  👨‍💻 Sou apaixonado por tecnologias, e estou sempre disposto a aprender mais e conversar com as pessoas sobre isso. 🎈 <br /><br />
  🌱 Sou vegetariano por que amo todo tipo de animal. 🐮 <br /><br />
 </p>
-
+  
 <h2>Tecnologias</h2>
+
+<img align="right" src="https://media1.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e470jdmso0lvx55cec4lyq0cl3qjr8utbo0xhxamohq&rid=giphy.gif" width="400" height="400">
 
 <h3 align="left">Linguagens de Programação</h3>
 <p align="left"> 
@@ -66,7 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
   </a> 
 </p>
-  
+
 <h3 align="left">Testes</h3>
 <p align="left"> 
   <a href="https://jestjs.io" target="_blank"> 
