@@ -11,6 +11,7 @@
 <h2> Sobre mim: 👨‍🦲 </h2>
 <br />
 <p> 
+ 📖 Atualmente estou aprendendo Java e socket.io
  💻 Sou desenvolvedor de software e atualmente estudo na 
  <a href="https://www.betrybe.com">Trybe</a>. 📖 <br /><br />
  💚 Sou apaixonado por tecnologia, amo aprender coisas novas e conhecer pessoas e idéias. 🎈 <br /><br />
