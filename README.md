@@ -14,8 +14,8 @@
  📖 Atualmente estou aprendendo Java e socket.io  <br /><br />
  💻 Sou desenvolvedor de software e atualmente estudo na 
  <a href="https://www.betrybe.com">Trybe</a>. 📖 <br /><br />
- 💚 Sou apaixonado por tecnologia, amo aprender coisas novas e conhecer pessoas e idéias. 🎈 <br /><br />
- 🌱 Sou vegetariano por que amo todos os animais. 🐮 <br /><br />
+ 💚 Sou apaixonado por tecnologia, amo aprender coisas novas, conhecer pessoas e idéias. 🎈 <br /><br />
+ 🌱 Sou vegetariano. <br /><br />
 </p>
   
 <h2>Tecnologias</h2>
@@ -29,6 +29,10 @@
   </a>
     <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" /> 
+  </a>
+   </a>
+    <a href="https://docs.python.org/3/" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> 
   </a>
 </p>
 
