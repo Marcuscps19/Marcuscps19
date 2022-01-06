@@ -1,5 +1,5 @@
 <h1 align="center">Marcus Cesar Hüsemann Filho</h1>
-<p align="center"> Full stack developer </p>
+<p align="center"> Developer </p>
 <section display="flex">
 
 <h2>Conecte-se comigo: </h2>
@@ -13,7 +13,7 @@
 <p> 
  📖 Atualmente estou aprendendo Python  <br /><br />
  💻 Sou desenvolvedor de software e atualmente estudo na 
- <a href="https://www.betrybe.com">Trybe</a>. 📖 <br /><br />
+ <a href="https://www.betrybe.com">Trybe</a> e na <a href="https://www.alura.com.br/">Alura</a>. 📖 <br /> <br /> 
  💚 Sou apaixonado por tecnologia, amo aprender coisas novas, conhecer pessoas e idéias. 🎈 <br /><br />
  🌱 Sou vegetariano. <br /><br />
 </p>
