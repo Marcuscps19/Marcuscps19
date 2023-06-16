@@ -11,9 +11,9 @@
 <h2> Sobre mim: 👨‍🦲 </h2>
 <br />
 <p> 
- 📖 Atualmente estou aprendendo Python  <br /><br />
- 💻 Sou desenvolvedor de software e atualmente estudo na 
- <a href="https://www.betrybe.com">Trybe</a> e na <a href="https://www.alura.com.br/">Alura</a>. 📖 <br /> <br /> 
+
+ 💻 Desenvolvedor
+ <a href="https://www.localiza.com/brasil/pt-br">Localiza</a> <br /> <br /> 
  💚 Sou apaixonado por tecnologia, amo aprender coisas novas, conhecer pessoas e idéias. 🎈 <br /><br />
  🌱 Sou vegetariano. <br /><br />
 </p>
